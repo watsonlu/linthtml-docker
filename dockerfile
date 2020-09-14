@@ -1,2 +1,2 @@
-FROM node:current-alpine3.11
+FROM node
 RUN npm install -g LintHTML/LintHTML
