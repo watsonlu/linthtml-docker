@@ -1,0 +1,5 @@
+version: '3'
+services:
+  baggins.api.rest:
+    image: linthtml:1
+    build: .
